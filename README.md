@@ -112,9 +112,13 @@ else:
 
 ```
 ## Sample Input and Output
+
 i,
+
 ![image](https://user-images.githubusercontent.com/118367518/214832137-48d39604-dcf4-4366-94c1-036462bdcd14.png)
+
 ii,
+
 ![image](https://user-images.githubusercontent.com/118367518/214832510-33ee94c9-f4f4-4018-8663-23e68b0c0323.png)
 
 iii,
